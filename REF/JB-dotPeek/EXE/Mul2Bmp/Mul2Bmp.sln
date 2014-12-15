@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mul2Bmp", "Mul2Bmp.csproj", "{2952C0DB-3527-4AEC-B9AB-116A3CE6A19B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2952C0DB-3527-4AEC-B9AB-116A3CE6A19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2952C0DB-3527-4AEC-B9AB-116A3CE6A19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2952C0DB-3527-4AEC-B9AB-116A3CE6A19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2952C0DB-3527-4AEC-B9AB-116A3CE6A19B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

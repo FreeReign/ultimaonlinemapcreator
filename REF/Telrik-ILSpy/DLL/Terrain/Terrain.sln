@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{286B7223-1127-4433-B413-F1F6E71A7D02}") = "Terrain", "Terrain.csproj", "{9665236F-4092-40A0-A73C-CBFEF944CED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9665236F-4092-40A0-A73C-CBFEF944CED3}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{9665236F-4092-40A0-A73C-CBFEF944CED3}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{9665236F-4092-40A0-A73C-CBFEF944CED3}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{9665236F-4092-40A0-A73C-CBFEF944CED3}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

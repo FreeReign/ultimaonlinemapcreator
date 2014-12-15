@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{A45FB2C4-D418-47B0-9FF9-F1EF67A7DA24}") = "DragonConv", "DragonConv.csproj", "{F7618959-BF86-4D4C-89B4-E0A6EA2AF267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7618959-BF86-4D4C-89B4-E0A6EA2AF267}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{F7618959-BF86-4D4C-89B4-E0A6EA2AF267}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{F7618959-BF86-4D4C-89B4-E0A6EA2AF267}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{F7618959-BF86-4D4C-89B4-E0A6EA2AF267}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

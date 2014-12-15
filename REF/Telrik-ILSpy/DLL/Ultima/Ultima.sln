@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{20928C94-7D75-4A60-8BC8-F49B9EF15C1B}") = "Ultima", "Ultima.csproj", "{2D9A84E7-776B-492C-A00E-26943689B12F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D9A84E7-776B-492C-A00E-26943689B12F}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{2D9A84E7-776B-492C-A00E-26943689B12F}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{2D9A84E7-776B-492C-A00E-26943689B12F}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{2D9A84E7-776B-492C-A00E-26943689B12F}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

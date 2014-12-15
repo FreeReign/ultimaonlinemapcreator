@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4BC32198-B3C7-4126-B71C-EBAE3C38427B}") = "AltImagePrep", "AltImagePrep.csproj", "{0C32F25A-E358-442E-8E09-CD8C0CCAB827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C32F25A-E358-442E-8E09-CD8C0CCAB827}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{0C32F25A-E358-442E-8E09-CD8C0CCAB827}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{0C32F25A-E358-442E-8E09-CD8C0CCAB827}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{0C32F25A-E358-442E-8E09-CD8C0CCAB827}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

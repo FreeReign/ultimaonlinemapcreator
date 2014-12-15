@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{9A174251-D929-47C2-9285-6E6AD0260466}") = "DataVeiwer", "DataViewer.csproj", "{CC1D8042-862D-4DDA-8B05-73AF0CB312AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1D8042-862D-4DDA-8B05-73AF0CB312AD}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{CC1D8042-862D-4DDA-8B05-73AF0CB312AD}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{CC1D8042-862D-4DDA-8B05-73AF0CB312AD}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{CC1D8042-862D-4DDA-8B05-73AF0CB312AD}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

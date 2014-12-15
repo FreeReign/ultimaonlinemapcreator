@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6FDE2D84-2206-4C1E-BC02-9EC4FBB8B072}") = "UOMapMake", "UOMapMake.csproj", "{A811ABE9-50FB-4CD9-AC86-5A5EEEAA0C51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A811ABE9-50FB-4CD9-AC86-5A5EEEAA0C51}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{A811ABE9-50FB-4CD9-AC86-5A5EEEAA0C51}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{A811ABE9-50FB-4CD9-AC86-5A5EEEAA0C51}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{A811ABE9-50FB-4CD9-AC86-5A5EEEAA0C51}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{C843D4A1-F4DC-4A38-9259-1DFCDE1B5068}") = "SEdit", "SEdit.csproj", "{F9DCD034-1B20-413B-B1B6-3632665CCAE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9DCD034-1B20-413B-B1B6-3632665CCAE1}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{F9DCD034-1B20-413B-B1B6-3632665CCAE1}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{F9DCD034-1B20-413B-B1B6-3632665CCAE1}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{F9DCD034-1B20-413B-B1B6-3632665CCAE1}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

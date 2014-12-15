@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6CADEFE5-3361-462A-AFED-7BD5547CE303}") = "Transition", "Transition.csproj", "{E7904352-18A4-4C40-84B1-D654128AB49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7904352-18A4-4C40-84B1-D654128AB49B}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{E7904352-18A4-4C40-84B1-D654128AB49B}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{E7904352-18A4-4C40-84B1-D654128AB49B}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{E7904352-18A4-4C40-84B1-D654128AB49B}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

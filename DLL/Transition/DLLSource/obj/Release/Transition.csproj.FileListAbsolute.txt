@@ -1,0 +1,9 @@
+C:\Users\Praxiiz\Projects\UltimaOnlineLandscaper\Transition\obj\Release\Transition.csprojResolveAssemblyReference.cache
+W:\UltimaOnlineLandscaper\UltimaOnlineLandscaper\Transition\obj\Release\Transition.csprojResolveAssemblyReference.cache
+W:\UltimaOnlineLandscaper\UltimaOnlineLandscaper\Transition\bin\Release\Transition.dll
+W:\UltimaOnlineLandscaper\UltimaOnlineLandscaper\Transition\bin\Release\Transition.pdb
+W:\UltimaOnlineLandscaper\UltimaOnlineLandscaper\Transition\bin\Release\Terrain.dll
+W:\UltimaOnlineLandscaper\UltimaOnlineLandscaper\Transition\bin\Release\Ultima.dll
+W:\UltimaOnlineLandscaper\UltimaOnlineLandscaper\Transition\bin\Release\Terrain.pdb
+W:\UltimaOnlineLandscaper\UltimaOnlineLandscaper\Transition\obj\Release\Transition.dll
+W:\UltimaOnlineLandscaper\UltimaOnlineLandscaper\Transition\obj\Release\Transition.pdb

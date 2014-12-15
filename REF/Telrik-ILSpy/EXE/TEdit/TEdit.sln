@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{780CF478-5413-4FB4-9135-ED4BE0C093BF}") = "TEdit", "TEdit.csproj", "{D3D5B79E-A139-4502-8692-D0DA095D91B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D5B79E-A139-4502-8692-D0DA095D91B5}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{D3D5B79E-A139-4502-8692-D0DA095D91B5}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{D3D5B79E-A139-4502-8692-D0DA095D91B5}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{D3D5B79E-A139-4502-8692-D0DA095D91B5}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

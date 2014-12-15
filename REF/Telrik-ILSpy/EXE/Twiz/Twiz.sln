@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{A2FB294B-D470-4EB5-83EF-C758537B6685}") = "Twiz", "Twiz.csproj", "{BAA4CE58-9F58-47FF-AAFE-C713CEBF57EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA4CE58-9F58-47FF-AAFE-C713CEBF57EC}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{BAA4CE58-9F58-47FF-AAFE-C713CEBF57EC}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{BAA4CE58-9F58-47FF-AAFE-C713CEBF57EC}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{BAA4CE58-9F58-47FF-AAFE-C713CEBF57EC}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

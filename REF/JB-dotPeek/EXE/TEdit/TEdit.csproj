@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: W:\JetBrains\UOLandscaper\TEdit.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4D4F1835-3336-4C41-B0EA-5FACA7B1E710}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>TEdit</AssemblyName>
+    <ApplicationVersion>1.0.1819.29268</ApplicationVersion>
+    <RootNamespace>TEdit</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Transition">
+      <HintPath>lib\Transition.dll</HintPath>
+    </Reference>
+    <Reference Include="Ultima">
+      <HintPath>lib\Ultima.dll</HintPath>
+    </Reference>
+    <Reference Include="Terrain">
+      <HintPath>lib\Terrain.dll</HintPath>
+    </Reference>
+    <Reference Include="Altitude">
+      <HintPath>lib\Altitude.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TEdit.cs" />
+    <Compile Include="StaticZoom.cs" />
+    <Compile Include="PrintTransition.cs" />
+    <Compile Include="MapZoom.cs" />
+    <Compile Include="GroupSelect.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="GroupSelect.resx" />
+    <EmbeddedResource Include="MapZoom.resx" />
+    <EmbeddedResource Include="StaticZoom.resx" />
+    <EmbeddedResource Include="TEdit.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

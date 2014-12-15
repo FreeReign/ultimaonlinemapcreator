@@ -1,0 +1,79 @@
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\bin\Debug\CreateStatics.exe.config
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\bin\Debug\CreateStatics.exe
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\bin\Debug\CreateStatics.pdb
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\bin\Debug\Logger.dll
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\bin\Debug\Terrain.dll
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\bin\Debug\Transition.dll
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\bin\Debug\Logger.pdb
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\bin\Debug\Terrain.pdb
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\bin\Debug\Transition.pdb
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\obj\Debug\CreateStatics.Properties.Resources.resources
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\obj\Debug\CreateStatics.RStaticZoom.resources
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\obj\Debug\CreateStatics.CreateStatics.resources
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\obj\Debug\CreateStatics.csproj.GenerateResource.Cache
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\obj\Debug\CreateStatics.exe
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\SEdit\obj\Debug\CreateStatics.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\bin\Debug\CreateStatics.exe.config
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\bin\Debug\CreateStatics.exe
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\bin\Debug\CreateStatics.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\bin\Debug\Terrain.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\bin\Debug\Transition.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\bin\Debug\Terrain.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\bin\Debug\Transition.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\obj\Debug\CreateStatics.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\obj\Debug\CreateStatics.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\obj\Debug\CreateStatics.RStaticZoom.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\obj\Debug\CreateStatics.CreateStatics.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\obj\Debug\CreateStatics.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\obj\Debug\CreateStatics.exe
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\obj\Debug\CreateStatics.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\bin\Debug\Ultima.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\bin\Debug\Ultima.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\bin\Debug\CreateStatics.exe.config
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\bin\Debug\CreateStatics.exe
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\bin\Debug\CreateStatics.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\bin\Debug\Terrain.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\bin\Debug\Transition.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\bin\Debug\Ultima.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\bin\Debug\Terrain.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\bin\Debug\Transition.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\bin\Debug\Ultima.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.RStaticZoom.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.CreateStatics.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.exe
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\CreateStatics.exe.config
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\CreateStatics.exe
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\CreateStatics.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Terrain.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Transition.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Ultima.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Terrain.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Transition.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Ultima.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.RStaticZoom.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.CreateStatics.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.exe
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\CreateStatics.exe.config
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\CreateStatics.exe
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\CreateStatics.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Terrain.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Transition.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Ultima.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Terrain.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Transition.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\bin\Debug\Ultima.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.RStaticZoom.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.CreateStatics.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.exe
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateStatics\EXESource\obj\Debug\CreateStatics.pdb

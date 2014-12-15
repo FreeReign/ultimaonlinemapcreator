@@ -1,0 +1,108 @@
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\CreateTransitions.exe.config
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\CreateTransitions.exe
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\CreateTransitions.pdb
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\Altitude.dll
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\Terrain.dll
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\Transition.dll
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\Twiz.exe
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\Altitude.pdb
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\Terrain.pdb
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\Transition.pdb
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\bin\Debug\Twiz.pdb
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\obj\Debug\CreateTransitions.csprojResolveAssemblyReference.cache
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\obj\Debug\CreateTransitions.GroupSelect.resources
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\obj\Debug\CreateTransitions.MapZoom.resources
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\obj\Debug\CreateTransitions.Properties.Resources.resources
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\obj\Debug\CreateTransitions.StaticZoom.resources
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\obj\Debug\CreateTransitions.CreateTransitions.resources
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\obj\Debug\CreateTransitions.csproj.GenerateResource.Cache
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\obj\Debug\CreateTransitions.exe
+P:\Code Programming\Ultima Online™ Map Creator\Ultima Online™ Map Creator\REF\Landscaper\EXE\TEdit\obj\Debug\CreateTransitions.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\obj\Debug\CreateTransitions.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\obj\Debug\CreateTransitions.GroupSelect.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\obj\Debug\CreateTransitions.MapZoom.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\obj\Debug\CreateTransitions.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\obj\Debug\CreateTransitions.StaticZoom.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\obj\Debug\CreateTransitions.CreateTransitions.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\obj\Debug\CreateTransitions.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\obj\Debug\CreateTransitions.exe
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\CreateTransitions.exe.config
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\CreateTransitions.exe
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\CreateTransitions.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\Terrain.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\Transition.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\TransitionWizard.exe
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\Terrain.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\Transition.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\TransitionWizard.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\obj\Debug\CreateTransitions.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\Elevation.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\Elevation.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\Ultima.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\bin\Debug\Ultima.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.GroupSelect.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.MapZoom.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.StaticZoom.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.CreateTransitions.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.exe
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\CreateTransitions.exe.config
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\CreateTransitions.exe
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\CreateTransitions.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\Elevation.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\Terrain.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\Transition.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\TransitionWizard.exe
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\Ultima.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\Elevation.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\Terrain.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\Transition.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\TransitionWizard.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\bin\Debug\Ultima.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\CreateTransitions.exe.config
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\CreateTransitions.exe
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\CreateTransitions.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Elevation.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Terrain.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Transition.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\TransitionWizard.exe
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Ultima.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Elevation.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Terrain.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Transition.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\TransitionWizard.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Ultima.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.GroupSelect.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.MapZoom.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.StaticZoom.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.CreateTransitions.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.exe
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\CreateTransitions.exe.config
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\CreateTransitions.exe
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\CreateTransitions.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Elevation.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Terrain.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Transition.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\TransitionWizard.exe
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Ultima.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Elevation.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Terrain.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Transition.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\Ultima.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\bin\Debug\TransitionWizard.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.GroupSelect.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.MapZoom.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.StaticZoom.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.CreateTransitions.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.exe
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\EXE\CreateTransitions\EXESource\obj\Debug\CreateTransitions.pdb

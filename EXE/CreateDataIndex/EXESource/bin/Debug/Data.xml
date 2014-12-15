@@ -1,0 +1,17 @@
+<Config>
+		<!--Configuration File for DataList-->
+		<DataName Name="UOL" />
+		<Directories>
+				<Directory Name="Data" />
+				<Directory Name="Data\System" />
+				<Directory Name="Data\Photoshop" />
+				<Directory Name="Data\Import Files" />
+				<Directory Name="Data\Statics" />
+				<Directory Name="Data\Logger" />
+				<Directory Name="Data\Transitions" />
+				<Directory Name="Data\Transitions\Citified Terrains" />
+        <Directory Name="Data\Transitions\Citified Terrains\3way" />
+				<Directory Name="Data\Transitions\Natural Terrains" />
+        <Directory Name="Data\Transitions\Natural Terrains\3way" />
+		</Directories>
+</Config>

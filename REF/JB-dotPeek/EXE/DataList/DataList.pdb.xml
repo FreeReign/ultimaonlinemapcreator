@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PdbContent>
+  <UserEntryPoint>null</UserEntryPoint>
+  <SourceFile Index="0" DocumentType="Text" Language="C#" LanguageVendor="Microsoft">W:\JetBrains\DataList\DataList\Core.cs</SourceFile>
+  <Method Token="6000001">
+    <SequencePoints SourceFileIndex="0">
+      <SequencePoint IlOffset="IL_0000" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_0004" SourceFileIndex="0" StartLine="22" StartColumn="9" EndLine="22" EndColumn="104" />
+      <SequencePoint IlOffset="IL_0022" SourceFileIndex="0" StartLine="24" StartColumn="11" EndLine="24" EndColumn="65" />
+      <SequencePoint IlOffset="IL_002c" SourceFileIndex="0" StartLine="25" StartColumn="11" EndLine="25" EndColumn="152" />
+      <SequencePoint IlOffset="IL_004b" SourceFileIndex="0" StartLine="26" StartColumn="11" EndLine="26" EndColumn="57" />
+      <SequencePoint IlOffset="IL_0052" SourceFileIndex="0" StartLine="27" StartColumn="11" EndLine="27" EndColumn="42" />
+      <SequencePoint IlOffset="IL_005a" SourceFileIndex="0" StartLine="28" StartColumn="11" EndLine="28" EndColumn="40" />
+      <SequencePoint IlOffset="IL_0061" SourceFileIndex="0" StartLine="29" StartColumn="11" EndLine="29" EndColumn="66" />
+      <SequencePoint IlOffset="IL_006c" SourceFileIndex="0" StartLine="30" StartColumn="11" EndLine="30" EndColumn="72" />
+      <SequencePoint IlOffset="IL_0077" SourceFileIndex="0" StartLine="31" StartColumn="11" EndLine="31" EndColumn="68" />
+      <SequencePoint IlOffset="IL_0082" SourceFileIndex="0" StartLine="32" StartColumn="11" EndLine="32" EndColumn="67" />
+      <SequencePoint IlOffset="IL_0092" SourceFileIndex="0" StartLine="33" StartColumn="11" EndLine="33" EndColumn="42" />
+      <SequencePoint IlOffset="IL_0098" SourceFileIndex="0" StartLine="34" StartColumn="11" EndLine="34" EndColumn="71" />
+      <SequencePoint IlOffset="IL_00a3" SourceFileIndex="0" StartLine="35" StartColumn="11" EndLine="35" EndColumn="69" />
+      <SequencePoint IlOffset="IL_00ae" SourceFileIndex="0" StartLine="36" StartColumn="11" EndLine="36" EndColumn="61" />
+      <SequencePoint IlOffset="IL_00be" SourceFileIndex="0" StartLine="37" StartColumn="11" EndLine="37" EndColumn="42" />
+      <SequencePoint IlOffset="IL_00c4" SourceFileIndex="0" StartLine="38" StartColumn="11" EndLine="38" EndColumn="69" />
+      <SequencePoint IlOffset="IL_00cf" SourceFileIndex="0" StartLine="39" StartColumn="11" EndLine="39" EndColumn="72" />
+      <SequencePoint IlOffset="IL_00df" SourceFileIndex="0" StartLine="40" StartColumn="11" EndLine="40" EndColumn="42" />
+      <SequencePoint IlOffset="IL_00e5" SourceFileIndex="0" StartLine="41" StartColumn="11" EndLine="41" EndColumn="69" />
+      <SequencePoint IlOffset="IL_00f0" SourceFileIndex="0" StartLine="42" StartColumn="11" EndLine="42" EndColumn="83" />
+      <SequencePoint IlOffset="IL_0100" SourceFileIndex="0" StartLine="43" StartColumn="11" EndLine="43" EndColumn="42" />
+      <SequencePoint IlOffset="IL_0106" SourceFileIndex="0" StartLine="44" StartColumn="11" EndLine="44" EndColumn="42" />
+      <SequencePoint IlOffset="IL_010c" SourceFileIndex="0" StartLine="45" StartColumn="11" EndLine="45" EndColumn="42" />
+      <SequencePoint IlOffset="IL_0112" SourceFileIndex="0" StartLine="46" StartColumn="11" EndLine="46" EndColumn="32" />
+      <SequencePoint IlOffset="IL_0118" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_011a" SourceFileIndex="0" StartLine="49" StartColumn="7" EndLine="49" EndColumn="12" />
+      <SequencePoint IlOffset="IL_011b" SourceFileIndex="0" StartLine="51" StartColumn="9" EndLine="51" EndColumn="57" />
+      <SequencePoint IlOffset="IL_0125" SourceFileIndex="0" StartLine="52" StartColumn="9" EndLine="52" EndColumn="16" />
+      <SequencePoint IlOffset="IL_012a" SourceFileIndex="0" StartLine="54" StartColumn="7" EndLine="54" EndColumn="34" />
+      <SequencePoint IlOffset="IL_012c" SourceFileIndex="0" StartLine="55" StartColumn="7" EndLine="55" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0133" SourceFileIndex="0" StartLine="58" StartColumn="9" EndLine="58" EndColumn="52" />
+      <SequencePoint IlOffset="IL_013a" SourceFileIndex="0" StartLine="59" StartColumn="9" EndLine="59" EndColumn="103" />
+      <SequencePoint IlOffset="IL_0155" SourceFileIndex="0" StartLine="60" StartColumn="9" EndLine="60" EndColumn="98" />
+      <SequencePoint IlOffset="IL_018a" SourceFileIndex="0" StartLine="61" StartColumn="37" EndLine="61" EndColumn="82" />
+      <SequencePoint IlOffset="IL_019d" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_019f" SourceFileIndex="0" StartLine="61" StartColumn="18" EndLine="61" EndColumn="33" />
+      <SequencePoint IlOffset="IL_01ad" SourceFileIndex="0" StartLine="63" StartColumn="11" EndLine="63" EndColumn="65" />
+      <SequencePoint IlOffset="IL_01c0" SourceFileIndex="0" StartLine="64" StartColumn="11" EndLine="64" EndColumn="53" />
+      <SequencePoint IlOffset="IL_01cf" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_01f1" SourceFileIndex="0" StartLine="67" StartColumn="7" EndLine="67" EndColumn="12" />
+      <SequencePoint IlOffset="IL_01f2" SourceFileIndex="0" StartLine="69" StartColumn="9" EndLine="69" EndColumn="52" />
+      <SequencePoint IlOffset="IL_01fe" SourceFileIndex="0" StartLine="71" StartColumn="7" EndLine="71" EndColumn="60" />
+      <SequencePoint IlOffset="IL_0209" SourceFileIndex="0" StartLine="72" StartColumn="7" EndLine="72" EndColumn="48" />
+      <SequencePoint IlOffset="IL_020b" SourceFileIndex="0" StartLine="73" StartColumn="7" EndLine="73" EndColumn="54" />
+      <SequencePoint IlOffset="IL_020d" SourceFileIndex="0" StartLine="76" StartColumn="9" EndLine="76" EndColumn="117" />
+      <SequencePoint IlOffset="IL_0233" SourceFileIndex="0" StartLine="78" StartColumn="11" EndLine="78" EndColumn="152" />
+      <SequencePoint IlOffset="IL_024f" SourceFileIndex="0" StartLine="79" StartColumn="11" EndLine="79" EndColumn="63" />
+      <SequencePoint IlOffset="IL_0256" SourceFileIndex="0" StartLine="80" StartColumn="11" EndLine="80" EndColumn="40" />
+      <SequencePoint IlOffset="IL_0260" SourceFileIndex="0" StartLine="81" StartColumn="11" EndLine="81" EndColumn="51" />
+      <SequencePoint IlOffset="IL_026b" SourceFileIndex="0" StartLine="82" StartColumn="11" EndLine="82" EndColumn="46" />
+      <SequencePoint IlOffset="IL_0275" SourceFileIndex="0" StartLine="83" StartColumn="11" EndLine="83" EndColumn="22" />
+      <SequencePoint IlOffset="IL_0278" SourceFileIndex="0" StartLine="84" StartColumn="35" EndLine="84" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0281" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_0286" SourceFileIndex="0" StartLine="84" StartColumn="20" EndLine="84" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0294" SourceFileIndex="0" StartLine="86" StartColumn="37" EndLine="86" EndColumn="149" />
+      <SequencePoint IlOffset="IL_02b1" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_02b6" SourceFileIndex="0" StartLine="86" StartColumn="22" EndLine="86" EndColumn="33" />
+      <SequencePoint IlOffset="IL_02bd" SourceFileIndex="0" StartLine="88" StartColumn="39" EndLine="88" EndColumn="63" />
+      <SequencePoint IlOffset="IL_02c6" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_02cb" SourceFileIndex="0" StartLine="88" StartColumn="24" EndLine="88" EndColumn="35" />
+      <SequencePoint IlOffset="IL_02d2" SourceFileIndex="0" StartLine="90" StartColumn="17" EndLine="90" EndColumn="45" />
+      <SequencePoint IlOffset="IL_02da" SourceFileIndex="0" StartLine="91" StartColumn="17" EndLine="91" EndColumn="73" />
+      <SequencePoint IlOffset="IL_02e6" SourceFileIndex="0" StartLine="92" StartColumn="17" EndLine="92" EndColumn="22" />
+      <SequencePoint IlOffset="IL_02ec" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_032b" SourceFileIndex="0" StartLine="96" StartColumn="11" EndLine="96" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0330" SourceFileIndex="0" StartLine="97" StartColumn="11" EndLine="97" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0336" SourceFileIndex="0" StartLine="98" StartColumn="11" EndLine="98" EndColumn="30" />
+      <SequencePoint IlOffset="IL_033b" SourceFileIndex="0" StartLine="99" StartColumn="11" EndLine="99" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0341" SourceFileIndex="0" StartLine="100" StartColumn="11" EndLine="100" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0346" SourceFileIndex="0" StartLine="101" StartColumn="11" EndLine="101" EndColumn="35" />
+      <SequencePoint IlOffset="IL_034c" SourceFileIndex="0" StartLine="102" StartColumn="11" EndLine="102" EndColumn="80" />
+      <SequencePoint IlOffset="IL_0356" SourceFileIndex="0" StartLine="103" StartColumn="11" EndLine="103" EndColumn="85" />
+      <SequencePoint IlOffset="IL_0361" SourceFileIndex="0" StartLine="104" StartColumn="11" EndLine="104" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0366" SourceFileIndex="0" StartLine="105" StartColumn="11" EndLine="105" EndColumn="35" />
+      <SequencePoint IlOffset="IL_036c" SourceFileIndex="0" StartLine="106" StartColumn="35" EndLine="106" EndColumn="44" />
+      <SequencePoint IlOffset="IL_0375" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_037a" SourceFileIndex="0" StartLine="106" StartColumn="20" EndLine="106" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0388" SourceFileIndex="0" StartLine="108" StartColumn="37" EndLine="108" EndColumn="143" />
+      <SequencePoint IlOffset="IL_03a5" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_03aa" SourceFileIndex="0" StartLine="108" StartColumn="22" EndLine="108" EndColumn="33" />
+      <SequencePoint IlOffset="IL_03b1" SourceFileIndex="0" StartLine="110" StartColumn="15" EndLine="110" EndColumn="80" />
+      <SequencePoint IlOffset="IL_03c4" SourceFileIndex="0" StartLine="111" StartColumn="15" EndLine="111" EndColumn="83" />
+      <SequencePoint IlOffset="IL_03d8" SourceFileIndex="0" StartLine="112" StartColumn="15" EndLine="112" EndColumn="111" />
+      <SequencePoint IlOffset="IL_03f0" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_0421" SourceFileIndex="0" StartLine="115" StartColumn="11" EndLine="115" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0426" SourceFileIndex="0" StartLine="116" StartColumn="11" EndLine="116" EndColumn="35" />
+      <SequencePoint IlOffset="IL_042c" SourceFileIndex="0" StartLine="117" StartColumn="11" EndLine="117" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0431" SourceFileIndex="0" StartLine="118" StartColumn="11" EndLine="118" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0437" SourceFileIndex="0" StartLine="119" StartColumn="11" EndLine="119" EndColumn="30" />
+      <SequencePoint IlOffset="IL_043c" SourceFileIndex="0" StartLine="120" StartColumn="11" EndLine="120" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0442" SourceFileIndex="0" StartLine="121" StartColumn="11" EndLine="121" EndColumn="51" />
+      <SequencePoint IlOffset="IL_044c" SourceFileIndex="0" StartLine="122" StartColumn="11" EndLine="122" EndColumn="56" />
+      <SequencePoint IlOffset="IL_0457" SourceFileIndex="0" StartLine="123" StartColumn="11" EndLine="123" EndColumn="30" />
+      <SequencePoint IlOffset="IL_045c" SourceFileIndex="0" StartLine="124" StartColumn="11" EndLine="124" EndColumn="35" />
+      <SequencePoint IlOffset="IL_0462" SourceFileIndex="0" StartLine="125" StartColumn="35" EndLine="125" EndColumn="44" />
+      <SequencePoint IlOffset="IL_046b" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_0470" SourceFileIndex="0" StartLine="125" StartColumn="20" EndLine="125" EndColumn="31" />
+      <SequencePoint IlOffset="IL_047e" SourceFileIndex="0" StartLine="127" StartColumn="37" EndLine="127" EndColumn="149" />
+      <SequencePoint IlOffset="IL_049b" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_04a0" SourceFileIndex="0" StartLine="127" StartColumn="22" EndLine="127" EndColumn="33" />
+      <SequencePoint IlOffset="IL_04a7" SourceFileIndex="0" StartLine="129" StartColumn="45" EndLine="129" EndColumn="79" />
+      <SequencePoint IlOffset="IL_04b0" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_04be" SourceFileIndex="0" StartLine="129" StartColumn="24" EndLine="129" EndColumn="41" />
+      <SequencePoint IlOffset="IL_04c5" SourceFileIndex="0" StartLine="131" StartColumn="17" EndLine="131" EndColumn="54" />
+      <SequencePoint IlOffset="IL_04d2" SourceFileIndex="0" StartLine="132" StartColumn="17" EndLine="132" EndColumn="82" />
+      <SequencePoint IlOffset="IL_04e3" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_0522" SourceFileIndex="0" StartLine="136" StartColumn="11" EndLine="136" EndColumn="30" />
+      <SequencePoint IlOffset="IL_0527" SourceFileIndex="0" StartLine="137" StartColumn="11" EndLine="137" EndColumn="84" />
+      <SequencePoint IlOffset="IL_0538" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_053a" SourceFileIndex="0" StartLine="140" StartColumn="11" EndLine="140" EndColumn="72" />
+      <SequencePoint IlOffset="IL_0544" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_0546" SourceFileIndex="0" StartLine="142" StartColumn="7" EndLine="142" EndColumn="27" />
+      <SequencePoint IlOffset="IL_0548" SourceFileIndex="0" StartLine="144" StartColumn="9" EndLine="144" EndColumn="39" />
+      <SequencePoint IlOffset="IL_0552" SourceFileIndex="0" StartLine="145" StartColumn="9" EndLine="145" EndColumn="28" />
+      <SequencePoint IlOffset="IL_0557" SourceFileIndex="0" StartLine="146" StartColumn="9" EndLine="146" EndColumn="41" />
+      <SequencePoint IlOffset="IL_0563" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_0567" SourceFileIndex="0" StartLine="150" StartColumn="9" EndLine="150" EndColumn="56" />
+      <SequencePoint IlOffset="IL_056a" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_056d" SourceFileIndex="0" StartLine="152" StartColumn="11" EndLine="152" EndColumn="31" />
+      <SequencePoint IlOffset="IL_0573" SourceFileIndex="0" StartLine="153" StartColumn="11" EndLine="153" EndColumn="29" />
+      <SequencePoint IlOffset="IL_0579" SourceFileIndex="0" Hidden="true" />
+      <SequencePoint IlOffset="IL_057a" SourceFileIndex="0" StartLine="156" StartColumn="7" EndLine="156" EndColumn="25" />
+      <SequencePoint IlOffset="IL_0580" SourceFileIndex="0" Hidden="true" />
+    </SequencePoints>
+    <Scope OffsetRange="IL_0000-IL_0581" IsRoot="True" Method="6000001">
+      <Scope OffsetRange="IL_0000-IL_0581" IsRoot="False" Method="6000001">
+        <UsedNamespace>System</UsedNamespace>
+        <UsedNamespace>System.Collections</UsedNamespace>
+        <UsedNamespace>System.IO</UsedNamespace>
+        <UsedNamespace>System.Text</UsedNamespace>
+        <UsedNamespace>System.Xml</UsedNamespace>
+        <Scope OffsetRange="IL_004a-IL_0113" IsRoot="False" Method="6000001">
+          <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="2" Attributes="PrivateScope" Signature="">xmlTextWriter</LocalVariable>
+        </Scope>
+        <Scope OffsetRange="IL_012b-IL_0243" IsRoot="False" Method="6000001">
+          <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="3" Attributes="PrivateScope" Signature="">str1</LocalVariable>
+          <Scope OffsetRange="IL_0131-IL_0243" IsRoot="False" Method="6000001">
+            <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="4" Attributes="PrivateScope" Signature="">arrayList</LocalVariable>
+            <Scope OffsetRange="IL_0138-IL_018c" IsRoot="False" Method="6000001">
+              <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="5" Attributes="PrivateScope" Signature="">xmlDocument</LocalVariable>
+            </Scope>
+            <Scope OffsetRange="IL_01ab-IL_01af" IsRoot="False" Method="6000001">
+              <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="7" Attributes="PrivateScope" Signature="">xmlNode</LocalVariable>
+            </Scope>
+            <Scope OffsetRange="IL_01be-IL_01c4" IsRoot="False" Method="6000001">
+              <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="8" Attributes="PrivateScope" Signature="">xmlAttribute</LocalVariable>
+            </Scope>
+            <Scope OffsetRange="IL_020a-IL_0243" IsRoot="False" Method="6000001">
+              <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="0" Attributes="PrivateScope" Signature="">fileStream</LocalVariable>
+              <Scope OffsetRange="IL_020c-IL_0243" IsRoot="False" Method="6000001">
+                <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="1" Attributes="PrivateScope" Signature="">streamWriter</LocalVariable>
+              </Scope>
+            </Scope>
+          </Scope>
+        </Scope>
+        <Scope OffsetRange="IL_0243-IL_0574" IsRoot="False" Method="6000001">
+          <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="0" Attributes="PrivateScope" Signature="">fileStream</LocalVariable>
+          <Scope OffsetRange="IL_0243-IL_056e" IsRoot="False" Method="6000001">
+            <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="1" Attributes="PrivateScope" Signature="">streamWriter</LocalVariable>
+            <Scope OffsetRange="IL_0243-IL_0464" IsRoot="False" Method="6000001">
+              <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="4" Attributes="PrivateScope" Signature="">arrayList</LocalVariable>
+              <Scope OffsetRange="IL_0276-IL_0464" IsRoot="False" Method="6000001">
+                <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="9" Attributes="PrivateScope" Signature="">num</LocalVariable>
+                <Scope OffsetRange="IL_0292-IL_02a5" IsRoot="False" Method="6000001">
+                  <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="10" Attributes="PrivateScope" Signature="">str2</LocalVariable>
+                </Scope>
+                <Scope OffsetRange="IL_02bb-IL_02bf" IsRoot="False" Method="6000001">
+                  <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="11" Attributes="PrivateScope" Signature="">path</LocalVariable>
+                </Scope>
+                <Scope OffsetRange="IL_02d0-IL_02e1" IsRoot="False" Method="6000001">
+                  <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="12" Attributes="PrivateScope" Signature="">str3</LocalVariable>
+                </Scope>
+                <Scope OffsetRange="IL_0386-IL_0399" IsRoot="False" Method="6000001">
+                  <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="13" Attributes="PrivateScope" Signature="">str2</LocalVariable>
+                </Scope>
+                <Scope OffsetRange="IL_03af-IL_03c2" IsRoot="False" Method="6000001">
+                  <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="14" Attributes="PrivateScope" Signature="">path</LocalVariable>
+                </Scope>
+                <Scope OffsetRange="IL_03c2-IL_03e6" IsRoot="False" Method="6000001">
+                  <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="15" Attributes="PrivateScope" Signature="">startIndex</LocalVariable>
+                  <Scope OffsetRange="IL_03c2-IL_03df" IsRoot="False" Method="6000001">
+                    <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="14" Attributes="PrivateScope" Signature="">path</LocalVariable>
+                  </Scope>
+                </Scope>
+              </Scope>
+            </Scope>
+            <Scope OffsetRange="IL_0464-IL_052e" IsRoot="False" Method="6000001">
+              <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="9" Attributes="PrivateScope" Signature="">num</LocalVariable>
+              <Scope OffsetRange="IL_047c-IL_048f" IsRoot="False" Method="6000001">
+                <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="16" Attributes="PrivateScope" Signature="">str2</LocalVariable>
+              </Scope>
+              <Scope OffsetRange="IL_04a5-IL_04a9" IsRoot="False" Method="6000001">
+                <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="17" Attributes="PrivateScope" Signature="">path</LocalVariable>
+              </Scope>
+              <Scope OffsetRange="IL_04c3-IL_04d9" IsRoot="False" Method="6000001">
+                <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="19" Attributes="PrivateScope" Signature="">fileInfo</LocalVariable>
+              </Scope>
+            </Scope>
+            <Scope OffsetRange="IL_0546-IL_0565" IsRoot="False" Method="6000001">
+              <LocalVariable LocalVariablesSignatureToken="11000001" IlIndex="20" Attributes="PrivateScope" Signature="">ex</LocalVariable>
+            </Scope>
+          </Scope>
+        </Scope>
+      </Scope>
+    </Scope>
+  </Method>
+  <Method Token="6000002">
+    <Scope OffsetRange="IL_0000-IL_0007" IsRoot="True" Method="6000002" />
+  </Method>
+</PdbContent>

@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{27238E6B-4404-4C97-AA6B-105E7D308E48}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CreateTransitions</RootNamespace>
+    <AssemblyName>CreateTransitions</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ico02.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GroupSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupSelect.Designer.cs">
+      <DependentUpon>GroupSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapZoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapZoom.Designer.cs">
+      <DependentUpon>MapZoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintTransition.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaticZoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaticZoom.Designer.cs">
+      <DependentUpon>StaticZoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateTransitions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateTransitions.Designer.cs">
+      <DependentUpon>CreateTransitions.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GroupSelect.resx">
+      <DependentUpon>GroupSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapZoom.resx">
+      <DependentUpon>MapZoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StaticZoom.resx">
+      <DependentUpon>StaticZoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateTransitions.resx">
+      <DependentUpon>CreateTransitions.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uol36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DLL\Elevation\DLLSource\Elevation.csproj">
+      <Project>{2db14f29-b468-41fd-ab78-a5fa986cebd1}</Project>
+      <Name>Elevation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DLL\Terrain\DLLSource\Terrain.csproj">
+      <Project>{9665236f-4092-40a0-a73c-cbfef944ced3}</Project>
+      <Name>Terrain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DLL\Transition\DLLSource\Transition.csproj">
+      <Project>{a96392e4-ace3-4ff1-a9ad-28e7c6e3d228}</Project>
+      <Name>Transition</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DLL\Ultima\DLLSource\Ultima.csproj">
+      <Project>{27f2d0cb-e224-4ce3-8683-11cded1576bb}</Project>
+      <Name>Ultima</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TransitionWizard\EXESource\TransitionWizard.csproj">
+      <Project>{a8831402-03ba-42b8-a1d2-e4f8da997987}</Project>
+      <Name>TransitionWizard</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ico02.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

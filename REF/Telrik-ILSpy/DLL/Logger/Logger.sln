@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6476F016-BD5B-45E8-AEBB-AC15C9576C8F}") = "Logger", "Logger.csproj", "{C7AF5026-307F-4B55-9F85-137255874E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7AF5026-307F-4B55-9F85-137255874E32}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{C7AF5026-307F-4B55-9F85-137255874E32}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{C7AF5026-307F-4B55-9F85-137255874E32}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{C7AF5026-307F-4B55-9F85-137255874E32}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

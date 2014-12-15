@@ -1,0 +1,55 @@
+W:\UOMC_SDK\DLL\Logger\DLLSource\bin\Debug\Logger.dll
+W:\UOMC_SDK\DLL\Logger\DLLSource\bin\Debug\Logger.pdb
+W:\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.dll
+W:\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.pdb
+W:\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.Logger.resources
+W:\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.csproj.GenerateResource.Cache
+W:\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.Properties.Resources.resources
+W:\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+W:\UOMC_SDK\UOMC_SDK\DLL\Logger\DLLSource\bin\Debug\Logger.dll
+W:\UOMC_SDK\UOMC_SDK\DLL\Logger\DLLSource\bin\Debug\Logger.pdb
+W:\UOMC_SDK\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+W:\UOMC_SDK\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.Properties.Resources.resources
+W:\UOMC_SDK\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.csproj.GenerateResource.Cache
+W:\UOMC_SDK\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.dll
+W:\UOMC_SDK\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.pdb
+W:\UOMC_SDK\UOMC_SDK\DLL\Logger\DLLSource\obj\Debug\Logger.LoggerForm.resources
+P:\Code Programming\Ultima Online™ Map Creator\DLL\Logger\DLLSource\bin\Debug\Logger.dll
+P:\Code Programming\Ultima Online™ Map Creator\DLL\Logger\DLLSource\bin\Debug\Logger.pdb
+P:\Code Programming\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.LoggerForm.resources
+P:\Code Programming\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.Properties.Resources.resources
+P:\Code Programming\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.csproj.GenerateResource.Cache
+P:\Code Programming\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.dll
+P:\Code Programming\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.pdb
+P:\Code Programming\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\bin\Debug\Logger.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\bin\Debug\Logger.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\obj\Debug\Logger.LoggerForm.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\obj\Debug\Logger.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\obj\Debug\Logger.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\obj\Debug\Logger.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\obj\Debug\Logger.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\DLLSource\bin\Debug\Logger.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\DLLSource\bin\Debug\Logger.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\DLLSource\obj\Debug\Logger.LoggerForm.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\DLLSource\obj\Debug\Logger.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\DLLSource\obj\Debug\Logger.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\DLLSource\obj\Debug\Logger.dll
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\DLLSource\obj\Debug\Logger.pdb
+C:\Users\A.A.S.R\Desktop\Landscaper\DLL\Logger\DLLSource\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\DLL\Logger\DLLSource\bin\Debug\Logger.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\DLL\Logger\DLLSource\bin\Debug\Logger.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.LoggerForm.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\DLL\Logger\DLLSource\bin\Debug\Logger.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\DLL\Logger\DLLSource\bin\Debug\Logger.pdb
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.LoggerForm.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.Properties.Resources.resources
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.csproj.GenerateResource.Cache
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.dll
+C:\Users\A.A.S.R\Desktop\Ultima Online™ Map Creator\Ultima Online™ Map Creator\DLL\Logger\DLLSource\obj\Debug\Logger.pdb

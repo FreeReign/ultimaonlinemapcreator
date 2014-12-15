@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{4CD1379E-E455-4EE4-B3A7-E91310817DDA}") = "DataList", "DataList.csproj", "{F0396D17-2776-4E58-BE59-B6D86EF9B64E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0396D17-2776-4E58-BE59-B6D86EF9B64E}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{F0396D17-2776-4E58-BE59-B6D86EF9B64E}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{F0396D17-2776-4E58-BE59-B6D86EF9B64E}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{F0396D17-2776-4E58-BE59-B6D86EF9B64E}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

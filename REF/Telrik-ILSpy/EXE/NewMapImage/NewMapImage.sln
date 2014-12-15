@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{539E6CAA-510B-49FD-BEC5-CE8F41B9AF05}") = "NewMapImage", "NewMapImage.csproj", "{3740703C-2351-43CA-8F8E-F28B74E902DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3740703C-2351-43CA-8F8E-F28B74E902DA}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{3740703C-2351-43CA-8F8E-F28B74E902DA}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{3740703C-2351-43CA-8F8E-F28B74E902DA}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{3740703C-2351-43CA-8F8E-F28B74E902DA}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
