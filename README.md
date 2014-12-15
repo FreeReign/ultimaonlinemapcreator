@@ -1,7 +1,7 @@
 Ultima Online™ Map Creator
 --------------------------
 This project is an open source version of UOLandscaper developed in C#...
-The original was software suite was developed in VB by Dknight of OrBSydia GameNET 
+The original was software suite was developed in VB by Dknight of OrBSydia GameNET: http://www.orbsydia.com
 
 Software Description:
 This project has been something I've wanted to take on for years. The original software suite was not open source and it had so many issues with it, but the developer refused to update it and create a more stable version. Well I have spoken to that developer and, although he's refused to let me re-release the original VB source code, he never said I couldn't re-write and re-distribute the C# conversion. In fact he said that anyone is free to look at the code and create their own versions, which I found funny because he "borrowed" the core/engine of his software from Ryandor's Dragon map making software suite.
