@@ -13,4 +13,4 @@ That means, by my open sourcing the software, you all are free to download and m
 Install Directions:
 Just use GIT or download the .zip package and extract everything into a folder of your choice. I've included a .pdf file which explains how each program works. I will also be including online video tutorials as well.*
 
-*The .pdf file is not available at this time. I'm still polishing up the software so please be patient. Thank you.
+*The .pdf file is not available at this time. I'm still polishing up the software so please be patient...
