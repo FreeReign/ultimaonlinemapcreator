@@ -1,5 +1,5 @@
-Ultima Online™ Map/Facet Creator
---------------------------------
+Ultima Online™ Map Creator
+--------------------------
 This project is an open source version of UOLandscaper developed in C#...
 The original was software suite was developed in VB by Dknight of OrBSydia GameNET: http://www.orbsydia.com
 
